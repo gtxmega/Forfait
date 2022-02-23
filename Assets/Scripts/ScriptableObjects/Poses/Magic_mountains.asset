@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3bdcf903493a5e443b91e6cd920da799, type: 3}
+  m_Name: Magic_mountains
+  m_EditorClassIdentifier: 
+  _spriteView: {fileID: 21300000, guid: 7d8938680fb38d948832df7eabd15784, type: 3}
+  _poseName: "\u041C\u0430\u0433\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u0433\u043E\u0440\u044B"
+  _poseDescription: 
